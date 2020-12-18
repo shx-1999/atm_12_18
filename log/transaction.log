@@ -1,0 +1,4 @@
+2020-12-18 16:55:03,749 transaction INFO:  用户:shawn从账户中取走了:123元,扣除手续费:6.15元
+2020-12-18 16:55:17,237 transaction INFO:  用户:shawn进行了还款操作,还款金额:13212元
+2020-12-18 16:55:25,611 transaction INFO:  用户:shawn向用户:song转账了123元,扣除了手续费6.15元
+2020-12-18 16:55:39,526 transaction INFO:  用户:shawn查看了余额
